@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40406" started-at="2022-01-23T15:15:28Z" finished-at="2022-01-23T15:16:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40406" started-at="2022-01-23T15:15:28Z" finished-at="2022-01-23T15:16:09Z">
+      <class name="com.seleniumgitmavenjenkin.Username">
+        <test-method status="PASS" signature="userlogin()[pri:0, instance:com.seleniumgitmavenjenkin.Username@5276e6b0]" name="userlogin" duration-ms="10239" started-at="2022-01-23T20:45:49Z" finished-at="2022-01-23T20:45:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userlogin -->
+        <test-method status="PASS" signature="userlogin1()[pri:0, instance:com.seleniumgitmavenjenkin.Username@5276e6b0]" name="userlogin1" duration-ms="9960" started-at="2022-01-23T20:45:59Z" finished-at="2022-01-23T20:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userlogin1 -->
+      </class> <!-- com.seleniumgitmavenjenkin.Username -->
+      <class name="com.seleniumgitmavenjenkin.Loginpage">
+        <test-method status="PASS" signature="loginpage()[pri:0, instance:com.seleniumgitmavenjenkin.Loginpage@25d250c6]" name="loginpage" duration-ms="11698" started-at="2022-01-23T20:45:28Z" finished-at="2022-01-23T20:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method status="PASS" signature="loginpage1()[pri:0, instance:com.seleniumgitmavenjenkin.Loginpage@25d250c6]" name="loginpage1" duration-ms="8475" started-at="2022-01-23T20:45:40Z" finished-at="2022-01-23T20:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage1 -->
+      </class> <!-- com.seleniumgitmavenjenkin.Loginpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
