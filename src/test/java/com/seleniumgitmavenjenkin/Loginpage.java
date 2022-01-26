@@ -17,7 +17,7 @@ public class Loginpage {
 		driver.get("https://www.makemytrip.com/");
 		System.out.println("newly added");
 		System.out.println("newly added");
-		System.out.println("newly added");
+		System.out.println("newly added123456");
 		driver.quit();		
 		
 	}
