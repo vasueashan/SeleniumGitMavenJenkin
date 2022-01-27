@@ -26,6 +26,7 @@ public class Username {
 		WebDriverManager.chromiumdriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.makemytrip.com/");
+		System.out.println("Hi vasu");
 		driver.quit();		
 		
 	}
