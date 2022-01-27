@@ -16,7 +16,9 @@ public class Loginpage {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.makemytrip.com/");
 		System.out.println("newly added1");
-		System.out.println("newly added");		
+		System.out.println("newly added");
+		System.out.println("newly added2");
+		System.out.println("newly added3");
 
 		driver.quit();		
 		
